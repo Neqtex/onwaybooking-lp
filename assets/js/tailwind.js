@@ -2,7 +2,7 @@ tailwind.config = {
   theme: {
     extend: {
       colors: {
-        primary: "#20A090",
+        primary: "#6155F5",
         secondary: "#637381",
         darkblack: "#212B36",
       },
@@ -23,6 +23,7 @@ tailwind.config = {
 
       "2xl": "1536px",
       // => @media (min-width: 1536px) { ... }
+
       "3xl": "1720px",
       // => @media (min-width: 1720px) { ... }
     },
